@@ -1,4 +1,4 @@
-# ACA500-Amiga1000
+# Box for ACA500+ with Amiga 1000 look for Amiga 1000 computer
 This repository contains the 3D parts to create a box for ACA500+ card that matches the Amiga 1000 design.
 
 You will find STL files but also source files written with OpenSCAD.
